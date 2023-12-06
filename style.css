@@ -1,0 +1,33 @@
+body { background-color: lightcyan;
+
+}
+
+h1 {
+color: coral;
+}
+h2 {
+    color:lightsalmon;
+}
+.johdantobox {
+    border: 1px solid;
+    padding: 5px
+}
+#myBtn {
+    display:none; 
+    position: fixed; 
+    bottom: 120px; 
+    right: 2px; 
+    z-index: 99; 
+    border: none; 
+    outline: none; 
+    background-color: sandybrown; 
+    color: white; 
+    cursor:pointer; 
+    padding: 15px; 
+    border-radius: 10px; 
+    font-size: 18px; 
+  }
+  
+  #myBtn:hover {
+    background-color: #555; 
+  }
